@@ -1,0 +1,10 @@
+body {
+    background-color: pink;
+    flex-direction: row;
+}
+
+img {
+    align-items: center;
+    width: 500px;
+    height: fit-content;
+}
